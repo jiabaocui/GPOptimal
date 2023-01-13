@@ -2,7 +2,7 @@
 <h1>Epoch-Evolving Gaussian Process Guided Learning for Classification</h1>
 PyTorch implementation of the paper "Epoch-Evolving Gaussian Process Guided Learning for Classification".
 
-![avatar](images/overview.png)
+![avatar](images/overview.pdf)
 
 <h1>Install</h1>
 
@@ -24,7 +24,7 @@ python test.py
 
 <h1>Main Results</h1>
 
-![avatar](images/error_conv.png)
+![avatar](images/error_conv.pdf)
 
 <h1>Citation</h1>
 
